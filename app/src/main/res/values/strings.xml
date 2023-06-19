@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Рецепты</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Настройки</string>
+
+    <string name="calory">Суточная норма</string>
+    <string name="search">Поиск</string>
+    <string name="favorite">Избранное</string>
+    <string name="recipe">Рецепты</string>
+    <string name="category">Категории</string>
+    <string name="cooktoday">Приготовлено сегодня</string>
+    <string name="settings">Настройки</string>
+    <string name="main_text_size">Размер текста</string>
+    <string name="setting_text_title">Настройки текста</string>
+    <string name="textviewbase">TextView</string>
+    <string name="searchviewtitle">SearchView</string>
+
+    <string name="activity_level_prompt">Выберите уровень активности</string>
+    <string name="sut_norm"><b>Ваша суточная норма калорий составляет:</b></string>
+    <string name="calc_title"><b>Введите данные для расчета суточной нормы калорий:</b></string>
+    <string name="phys_act"><b>Выберите ваш уровень физической активности</b></string>
+
+    <string-array name="activity_levels">
+        <item>Минимальный уровень активности</item>
+        <item>Низкий уровень активности</item>
+        <item>Средний уровень активности</item>
+        <item>Высокий уровень активности</item>
+        <item>Очень высокий уровень активности</item>
+    </string-array>
+
+    <string name="rost_text"><b>Введите рост:</b></string>
+    <string name="rost_hint">Рост (в сантиметрах)</string>
+    <string name="ves_text"><b>Введите вес:</b></string>
+    <string name="ves_hint">Вес (в килограммах)</string>
+    <string name="age_text"><b>Введите возраст:</b></string>
+    <string name="age_hint">Возраст</string>
+    <string name="products_hint">Введите продукты</string>
+    <string name="calory_hint">Количество калорий на 100г продукта:</string>
+    <string name="recipe_hint">Рецепт</string>
+    <string name="dish_hint">Название блюда</string>
+    <string name="cnt_dis">pic</string>
+    <string name="radio_male">Мужской</string>
+    <string name="radio_female">Женский</string>
+    <string name="calculate">Рассчитать</string>
+
+</resources>
